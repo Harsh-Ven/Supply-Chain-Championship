@@ -5,4 +5,4 @@ improve forecasting accuracy and planning responsiveness,
 enhance coordination through contracts between echelons, 
 design robust inventory policies under uncertainty, 
 schedule limited production resources efficiently and
-optimize final-mile delivery using vehicle routing
+optimize final-mile delivery using vehicle routing.
